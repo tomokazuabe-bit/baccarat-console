@@ -1,0 +1,30 @@
+{
+  "name": "Baccarat Intelligence Console",
+  "short_name": "Baccarat",
+  "description": "バカラの記録・罫線・確率・判断支援とカジノ風ゲーム（個人用）",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#05080F",
+  "theme_color": "#05080F",
+  "lang": "ja",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
